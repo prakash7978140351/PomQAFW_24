@@ -1,0 +1,129 @@
+[INFO ] 2024-06-09 02:43:08.068 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:43:24.951 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:43:40.809 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 02:43:45.221 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 02:43:45.225 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 02:43:45.791 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 02:43:46.918 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 02:46:12.926 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:46:32.651 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:46:33.730 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 02:46:34.069 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 02:46:34.303 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 02:46:35.456 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 02:46:35.510 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 02:46:45.442 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 02:46:46.838 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 02:46:46.840 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 02:46:47.401 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 02:46:48.484 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 02:49:37.097 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:49:38.308 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 02:49:38.658 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 02:49:38.878 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 02:49:40.029 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 02:49:40.094 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 02:49:47.148 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:49:58.817 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 02:49:59.383 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 02:49:59.722 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 02:50:01.002 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 02:50:01.105 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 02:50:11.257 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 02:50:12.346 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 02:50:12.351 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 02:50:12.915 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 02:50:14.066 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 02:57:04.338 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:57:05.598 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 02:57:05.948 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 02:57:06.153 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 02:57:07.321 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 02:57:07.381 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 02:57:27.786 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 02:57:29.184 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 02:57:29.527 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 02:57:29.858 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 02:57:31.053 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 02:57:31.126 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 02:57:43.245 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 02:57:44.328 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 02:57:44.330 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 02:57:44.880 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 02:57:46.015 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 03:00:16.704 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 03:00:17.885 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 03:00:18.231 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 03:00:18.447 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 03:00:19.731 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 03:00:19.794 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 03:00:26.246 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 03:00:41.825 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 03:00:48.586 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 03:00:48.589 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 03:00:49.189 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 03:00:50.818 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 03:05:13.622 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 03:05:25.460 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 03:05:25.890 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 03:05:26.192 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 03:05:27.466 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 03:05:27.549 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 03:05:39.539 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 03:05:40.723 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 03:05:41.056 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 03:05:41.280 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 03:05:42.420 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 03:05:42.475 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 03:05:48.580 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 17:17:02.026 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:17:03.853 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:17:04.238 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:17:04.455 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:17:05.625 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:17:05.785 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:17:15.536 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:17:16.603 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:17:17.032 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:17:17.239 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:17:18.401 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:17:18.461 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:17:28.016 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 17:17:29.139 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 17:17:29.140 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 17:17:29.686 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 17:17:30.774 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 17:24:00.950 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:24:02.114 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:24:02.481 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:24:02.716 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:24:03.841 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:24:03.905 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:24:13.509 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:24:14.658 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:24:14.998 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:24:15.257 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:24:16.329 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:24:16.394 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:24:22.946 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 17:24:37.640 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 17:24:37.641 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 17:24:38.229 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 17:24:39.358 [main] MyStorev1 - user clicks on submit in 
+[INFO ] 2024-06-09 17:58:44.187 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:58:45.433 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:58:46.040 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:58:46.284 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:58:47.418 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:58:47.481 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:58:58.420 [main] MyStorev1 - url opened 
+[INFO ] 2024-06-09 17:58:59.752 [main] MyStorev1 - Clicked on sign in buton 
+[INFO ] 2024-06-09 17:59:00.139 [main] MyStorev1 - user entered the resister user email
+[INFO ] 2024-06-09 17:59:00.437 [main] MyStorev1 - user entered the resister user password
+[INFO ] 2024-06-09 17:59:01.560 [main] MyStorev1 - user click submit for the resister user
+[INFO ] 2024-06-09 17:59:01.632 [main] MyStorev1 - verifyLoginForRegUser- passed
+[INFO ] 2024-06-09 17:59:11.530 [main] MyStorev1 - user enter the URL
+[INFO ] 2024-06-09 17:59:12.735 [main] MyStorev1 - user clicks on sign in 
+[INFO ] 2024-06-09 17:59:12.736 [main] MyStorev1 - user enters the email
+[INFO ] 2024-06-09 17:59:13.308 [main] MyStorev1 - user enters the password 
+[INFO ] 2024-06-09 17:59:14.443 [main] MyStorev1 - user clicks on submit in 
